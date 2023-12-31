@@ -14,9 +14,9 @@ I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer
 <img alt="Mysql" src="https://img.shields.io/badge/Mysql-%23000186?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23b21355?style=for-the-badge&logo=git" />
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%236578ff?style=for-the-badge&logo=pandas" />
-<img alt="" src="" />
-<img alt="" src="" />
-<img alt="" src="" />
+<img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23f8c621?style=for-the-badge&logo=scikit-learn" />
+<img alt="Seaborn" src="https://img.shields.io/badge/seaborn-%23f4114a?style=for-the-badge&logo=seaborn" />
+<img alt="GitHub" src="https://img.shields.io/badge/Github-%231d2225?style=for-the-badge&logo=Github&logoColor=white" />
 <img alt="" src="" />
 <img alt="" src="" />
 <img alt="" src="" />
@@ -32,7 +32,7 @@ I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer
 
 
 </div>
-<!--
+<!--  #de17b3
 **Nene-S/Nene-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
