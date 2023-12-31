@@ -7,7 +7,23 @@ I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer
 <div align="center">
 <h1> Technical Skills </h1>
 
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
+<img alt="R" src="https://img.shields.io/badge/R-%23040406?style=for-the-badge&logo=R" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23bf35ae?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img alt="Mysql" src="https://img.shields.io/badge/Mysql-%23000186?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-%23b21355?style=for-the-badge&logo=git" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%236578ff?style=for-the-badge&logo=pandas" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
+<img alt="" src="" />
 
+</p>
 
 
 
