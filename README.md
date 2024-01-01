@@ -6,7 +6,13 @@ I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer
 
 <div align="center">
 <h1> Technical Skills </h1>
+Programming Languages:   Python, R. <br>       
+Skills: Technical Writing, Data Cleaning/preprocessing, Data visualization, <br>  
+Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source    
 
+
+
+<h2> Languages and Frameworks 🛠</h2>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
 <img alt="R" src="https://img.shields.io/badge/R-%23040406?style=for-the-badge&logo=R" />
@@ -17,25 +23,26 @@ I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer
 <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23f8c621?style=for-the-badge&logo=scikit-learn" />
 <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-%23f4114a?style=for-the-badge&logo=seaborn" />
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%231d2225?style=for-the-badge&logo=Github&logoColor=white" />
-<img alt="" src="" />
-<img alt="" src="" />
-<img alt="" src="" />
-<img alt="" src="" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230d4335?style=for-the-badge" />
+<img alt="Numpy" src="https://img.shields.io/badge/Numpy-%23fd600e?style=for-the-badge&logo=Numpy" />
+<img alt="NLTK" src="https://img.shields.io/badge/Nltk-%23f00265?style=for-the-badge&logo=Nltk" />
+<img alt="jupyter" src="https://img.shields.io/badge/jupyter-%232b37a7?style=for-the-badge&logo=jupyter" />
 <img alt="" src="" />
 
 </p>
 
 
-
-
-
-
-
 </div>
-<!--  #de17b3
-**Nene-S/Nene-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Nene-S&show_icons=true&theme=ambient_gradient&include_all_commits=true" alt="Emmanuella Sule" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nene-S&size_weight=0.5&count_weight=0.5" /> </td>
+  </tr>
+</table>
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
