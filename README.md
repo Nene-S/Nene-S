@@ -36,8 +36,8 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Nene-S&show_icons=true&theme=ambient_gradient&include_all_commits=true" alt="Emmanuella Sule" /> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nene-S&size_weight=0.5&count_weight=0.5" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Nene-S&show_icons=true&theme=ambient_gradient&include_all_commits=true&line_height=20" alt="Emmanuella Sule" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nene-S&size_weight=0.5&count_weight=0.5&theme=ambient_gradient" /> </td>
   </tr>
 </table>
 
