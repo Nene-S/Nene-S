@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+
 <h1 align="center"> About Me ⚡</h1>
 I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer 
 
@@ -31,8 +33,23 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
 
 </p>
 
-
 </div>
+
+
+<h1 align="center"> Technical Articles/Blog Post <h/1>
+  
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://medium.com/@suleemmanuella/extensive-guide-to-gnu-privacy-guard-gpg-7d8376ca2cbe"> Extensive guide to Gnu privacy guard(GPG) </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://medium.com/@suleemmanuella/how-to-build-a-model-with-100-prediction-accuracy-1731a582716a">How to build a model with 100% prediction accuracy </a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -41,15 +58,6 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
   </tr>
 </table>
 
-Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
