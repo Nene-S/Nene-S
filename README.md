@@ -35,21 +35,22 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
 
 </div>
 
+<div align="center">
+  <h1> Technical Articles / Blog Post </h1>
+  <ul>
+    <li> <a href="https://medium.com/@suleemmanuella/extensive-guide-to-gnu-privacy-guard-gpg-7d8376ca2cbe"> Extensive Guide to Gnu Privacy Guard(GPG)</a> </li>
+    <li> <a href="https://medium.com/@suleemmanuella/how-to-build-a-model-with-100-prediction-accuracy-1731a582716a"> How to Build a Model with 100% Prediction Accuracy </a> </li>
+    <li> <a href="https://medium.com/@suleemmanuella/signing-git-commit-with-gpg-key-a795de0c9148"> Signing Git Commit with GPG Key</a> </li>
+    <li> <a href="https://medium.com/@suleemmanuella/chatgpt-explained-a5ba0c161a6c"> ChatGPT Explained </a> </li>
+  </ul>
 
-<h1 align="center"> Technical Articles/Blog Post <h/1>
   
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://medium.com/@suleemmanuella/extensive-guide-to-gnu-privacy-guard-gpg-7d8376ca2cbe"> Extensive guide to Gnu privacy guard(GPG) </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@suleemmanuella/how-to-build-a-model-with-100-prediction-accuracy-1731a582716a">How to build a model with 100% prediction accuracy </a>
-    </td>
-  </tr>
-</table>
+</div>
+
+
+
+ 
+
 
 <table>
   <tr>
