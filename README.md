@@ -48,8 +48,17 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
 </div>
 
 
+<div align="center">
+  <h1> Let's Get Connected </h1>
+  <a href="https://www.linkedin.com/in/emmanuella-sule-212b0b224/" target ="_blank">  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin"/></a>
+  <a href="https://medium.com/@suleemmanuella" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium"/></a>
+  <a href="https://twitter.com/EllaSule" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="suleemmanuella0010@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
- 
+
+</div> 
+
+
 
 
 <table>
@@ -61,4 +70,7 @@ Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source
 
 
 
+<div align="center">
+<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=Nene-S&theme=ambient-gradient" alt="Nene-S GitHub Streak"/></p>
+  </div>
 
