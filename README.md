@@ -1,3 +1,10 @@
+<h1 align="center"> Hello there 👋 </h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=500&size=25&pause=1000&color=BF26B0AE&center=true&vCenter=true&width=435&lines=I'm+Emmanuella+Sule.;A+Data+Scientist%2FAnalyst.+;A+Technical+Writer.+;A+Machine+Learning+Enthusiast." alt=" About Emmanuella Sule" /></a>
+  
+</div>
+
 
 
 
