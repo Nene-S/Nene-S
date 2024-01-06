@@ -6,20 +6,13 @@
 </div>
 
 
-
-
 <h1 align="center"> About Me ⚡</h1>
 I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer 
 
 
 
 <div align="center">
-<h1> Technical Skills </h1>
-Programming Languages:   Python, R. <br>       
-Skills: Technical Writing, Data Cleaning/preprocessing, Data visualization, <br>  
-Technologies:    Git, Tableau, MySQL, GoogleBquery, Google Sheets, Open-Source    
-
-
+   
 
 <h2> Languages and Frameworks 🛠</h2>
 <p align="center">
