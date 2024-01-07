@@ -6,15 +6,23 @@
 </div>
 
 
-<h1 align="center"> About Me ⚡</h1>
-I am a Data Analyst, Machine Learning Enthusiast, and a Technical writer 
+<h1 align="left"> About Me ⚡</h1>
+<ul>
+ 
+  <li>
+    I love open source projects and look out for cool open source projects to contribute to. 
+  </li>
+  <li>
+    I'm an AI enthusiast and am currently learning Machine Learning
+  </li>
+</ul>
 
 
 
 <div align="center">
    
 
-<h2> Languages and Frameworks 🛠</h2>
+<h2> Technologies and Tools 🛠</h2>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
 <img alt="R" src="https://img.shields.io/badge/R-%23040406?style=for-the-badge&logo=R" />
