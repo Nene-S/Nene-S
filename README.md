@@ -22,7 +22,7 @@
 <div align="center">
    
 
-<h2> Technologies and Tools 🛠</h2>
+<h1> Technologies and Tools 🛠</h1>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
 <img alt="R" src="https://img.shields.io/badge/R-%23040406?style=for-the-badge&logo=R" />
