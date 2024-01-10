@@ -6,14 +6,26 @@
 </div>
 
 
-<h1 align="left"> About Me ⚡</h1>
+<h2 align="left"> About Me ⚡</h2>
 <ul>
  
   <li>
-    I love open source projects and look out for cool open source projects to contribute to. 
+    ⚡I'm a Data Scientist/Analyst with bold ideas backed up by data.
   </li>
   <li>
-    I'm an AI enthusiast and am currently learning Machine Learning
+    💻 A technical writer with a knack for creating comprehensible and detailed articles. 
+  </li>
+  <li>
+    🐱‍👤 Every challenge presents an opportunity to build a better solution. That's where I thrive. As a Datha Scientist, I tackle problems head-on and design innovative solutions that make a difference.
+  </li>
+  <li>
+    🔥I'm  passionate about physics and technology, particularly AI, and its immense potential to shape a better future.
+  </li>
+  <li>
+    📚I'm currently honing my skills in Machine Learning and Deep Learning.
+  </li>
+  <li>
+    🔭 I love contributing to open source project 
   </li>
 </ul>
 
@@ -22,7 +34,7 @@
 <div align="center">
    
 
-<h1> Technologies and Tools 🛠</h1>
+<h2> Technologies and Tools 🛠</h2>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
 <img alt="R" src="https://img.shields.io/badge/R-%23040406?style=for-the-badge&logo=R" />
@@ -44,7 +56,7 @@
 </div>
 
 <div align="center">
-  <h1> Technical Articles / Blog Post </h1>
+  <h2> Technical Articles / Blog Post </h2>
   <ul>
     <li> <a href="https://medium.com/@suleemmanuella/extensive-guide-to-gnu-privacy-guard-gpg-7d8376ca2cbe"> Extensive Guide to Gnu Privacy Guard(GPG)</a> </li>
     <li> <a href="https://medium.com/@suleemmanuella/how-to-build-a-model-with-100-prediction-accuracy-1731a582716a"> How to Build a Model with 100% Prediction Accuracy </a> </li>
@@ -57,7 +69,7 @@
 
 
 <div align="center">
-  <h1> Let's Get Connected </h1>
+  <h2> Let's Get Connected </h2>
   <a href="https://www.linkedin.com/in/emmanuella-sule-212b0b224/" target ="_blank">  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin"/></a>
   <a href="https://medium.com/@suleemmanuella" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium"/></a>
   <a href="https://twitter.com/EllaSule" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
