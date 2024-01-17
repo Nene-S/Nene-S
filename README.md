@@ -13,21 +13,25 @@
     ⚡I'm a Data Scientist/Analyst with bold ideas backed up by data.
   </li>
   <li>
-    💻 A technical writer with a knack for creating comprehensible and detailed articles. 
+    💻 A technical writer with a strong commitment to quality 
   </li>
   <li>
-    🐱‍👤 Every challenge presents an opportunity to build a better solution. That's where I thrive. As a Datha Scientist, I tackle problems head-on and design innovative solutions that make a difference.
+    🐱‍👤 Every challenge presents an opportunity to build a better solution. That's where I thrive. As a Data Scientist, I tackle problems head-on and design innovative solutions that make a difference.
+  </li>
+  <li>
+    ✨I enjoy research and figuring out how pieces of an entire project work
   </li>
   <li>
     🔥I'm  passionate about physics and technology, particularly AI, and its immense potential to shape a better future.
   </li>
   <li>
-    📚I'm currently honing my skills in Machine Learning and Deep Learning.
+    📚I am a constant learner and I'm currently honing my skills in Machine Learning and Deep Learning.
   </li>
   <li>
-    🔭 I love contributing to open source project 
+    🔭 I love contributing to open source projects.
   </li>
 </ul>
+
 
 
 
