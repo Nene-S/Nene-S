@@ -10,7 +10,7 @@
 <ul>
  
   <li>
-    ⚡I'm a Data Scientist/Analyst with bold ideas backed up by data.
+    ⚡I'm a Machine Learning Engineer/ Data Analyst with bold ideas.
   </li>
   <li>
     💻 A technical writer with a strong commitment to quality 
@@ -25,10 +25,10 @@
     🔥I'm  passionate about physics and technology, particularly AI, and its immense potential to shape a better future.
   </li>
   <li>
-    📚I am a constant learner and I'm currently honing my skills in Machine Learning and Deep Learning.
+    📚I am a constant learner, and I'm currently honing my skills in Deep Learning and AI.
   </li>
   <li>
-    🔭 I love contributing to open source projects.
+    🔭 I love contributing to open-source projects.
   </li>
 </ul>
 
