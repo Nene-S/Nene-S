@@ -1,10 +1,15 @@
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=500&size=25&pause=1000&color=BF26B0AE&center=true&vCenter=true&width=435&lines=I'm+Emmanuella+Sule.;A+Data+Scientist%2FAnalyst.+;A+Technical+Writer.+;A+Machine+Learning+Enthusiast." alt=" About Emmanuella Sule" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5001&pause=1000&color=FFF515&center=true&random=false&width=435&lines=Hi!;I'm+Emmanuella+Sule;A+Machine+Learning+Engineer;A+Technical+Writer;A+Data+Analyst%2FScientist" alt="Typing SVG" /></a>
   
 </div>
 
-![](https://github.com/Nene-S/Nene-S/blob/main/gif_img.gif)
+<div align="center">
+  <img src="https://github.com/Nene-S/Nene-S/blob/main/gif_img.gif" height="500"/>
+
+</div>
+
+
 
 <div>
   
