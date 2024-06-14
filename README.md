@@ -9,10 +9,7 @@
 
 </div>
 
-
-
 <div>
-  
   <h2 align="left"> About Me ⚡</h2>
 <ul>
  
@@ -39,15 +36,14 @@
   </li>
 </ul>
 
-
 </div>
 
 
+---
 
 
 <div align="center">
-   
-
+  
 <h2> Technologies and Tools 🛠</h2>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2317405d?style=for-the-badge&logo=Python" />
@@ -69,8 +65,8 @@
 
 </div>
 
-<div align="center">
-  <h2> Technical Articles / Blog Post </h2>
+<div>
+  <h2  align="center"> Technical Articles / Blog Post </h2>
   <ul>
     <li> <a href="https://medium.com/@suleemmanuella/extensive-guide-to-gnu-privacy-guard-gpg-7d8376ca2cbe"> Extensive Guide to Gnu Privacy Guard(GPG)</a> </li>
     <li> <a href="https://medium.com/@suleemmanuella/how-to-build-a-model-with-100-prediction-accuracy-1731a582716a"> How to Build a Model with 100% Prediction Accuracy </a> </li>
@@ -90,9 +86,10 @@
   <a href="suleemmanuella0010@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
+
+---
+
 </div> 
-
-
 
 
 <table>
