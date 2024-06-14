@@ -97,14 +97,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Nene-S&show_icons=true&theme=ambient_gradient&include_all_commits=true&line_height=20" alt="Emmanuella Sule" /> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nene-S&size_weight=0.5&count_weight=0.5&theme=ambient_gradient" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Nene-S&show_icons=true&theme=synthwave&include_all_commits=true&line_height=20" alt="Emmanuella Sule" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nene-S&size_weight=0.5&count_weight=0.5&theme=synthwave" /> </td>
   </tr>
 </table>
 
 
 
 <div align="center">
-<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=Nene-S&theme=ambient-gradient" alt="Nene-S GitHub Streak"/></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=Nene-S&theme=synthwave" alt="Nene-S GitHub Streak"/></p>
   </div>
 
